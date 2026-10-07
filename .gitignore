@@ -1,0 +1,12 @@
+# Local saved user data
+users.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Common editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
