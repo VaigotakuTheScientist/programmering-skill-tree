@@ -1,0 +1,13 @@
+{
+  "Vaigo": {
+    "skills": {
+      "Python": 70,
+      "Physics": 40
+    }
+  },
+  "Alice": {
+    "skills": {
+      "JavaScript": 30
+    }
+  }
+}
